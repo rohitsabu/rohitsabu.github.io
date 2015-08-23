@@ -14,8 +14,8 @@ logo: "/assets/images/df_logo.jpg"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Rohit Sabu'
+author: 'Rohit Sabu'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
@@ -29,13 +29,13 @@ twitter_handle: '@dirkfabisch'
 #disqus: disqus-shortname
 
 # social icons and sharing options
-social:
-  - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+# social:
+# - icon:	twitter
+#   url:	https://twitter.com/dirkfabisch
+#   desc: Follow me on twitter
+#   share_url: http://twitter.com/share
+#   share_title: ?text=
+#   share_link: "&amp;url="
 
 #  - icon:	facebook
 #    url:	https://facebook.com/???
@@ -44,12 +44,12 @@ social:
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
+            #  - icon:	github
+#   url:	https://github.com/dirkfabisch
+#   desc:	Fork me on github
+#   share_url:
+#   share_title:
+#   share_link:
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
